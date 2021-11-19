@@ -9,6 +9,6 @@ public class FootballRestController {
 
     @GetMapping("/result")
     public String myMethod(){
-        return "first commit";
+        return "début projet final";
     }
 }
